@@ -1,6 +1,6 @@
 # News app
 
-This is a hybrid application created with Ionic 4 and angular 10, this app contains consume a news API which is [NewsAPI](https://newsapi.org/).
+This is a hybrid application created with Ionic 4 and angular 10, this app consume [NewsAPI](https://newsapi.org/).
 
 ## Requirements
 
