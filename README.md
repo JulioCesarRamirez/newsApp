@@ -10,7 +10,7 @@ This is a hybrid application created with Ionic 4 and angular 10, this app consu
 
 ## Run app in a browser
 
-Once you have installed previusly the requirements
+Once you have installed the requirements
 
 ```
 npm i && ionic serve
