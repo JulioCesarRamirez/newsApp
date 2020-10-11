@@ -10,10 +10,10 @@ This is a hybrid application created with Ionic 4 and angular 10, this app consu
 
 ## Run app in a browser
 
-Once you have installed the requirements
+Once you have installed the requirements, run the following command in a terminal or cmd.
 
 ```
 npm i && ionic serve
 ```
 
-This app were created by [Julio Cesar Ramirez Jimenez](https://www.linkedin.com/in/julio-cesar-ramirez-jimenez94/)
+This app was created by [Julio Cesar Ramirez Jimenez](https://www.linkedin.com/in/julio-cesar-ramirez-jimenez94/)
