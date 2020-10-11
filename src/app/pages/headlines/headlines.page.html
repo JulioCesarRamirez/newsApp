@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>headlines</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-slides>
+    <ion-slide>
+      <ion-chip
+        color="primary"
+        class="category"
+        *ngFor="let category of categories"
+        (click)="onGetCategoryData(category)"
+      >
+        <ion-label>{{category}}</ion-label>
+      </ion-chip>
+    </ion-slide>
+  </ion-slides>
+
+  <app-articles [articles]="news$"></app-articles>
+</ion-content>
